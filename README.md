@@ -1,13 +1,5 @@
 - 👋 Hi, I’m Shayan Rizwan
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : throuh my facbook = shayan Rizwan (shaine)
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-shayanrizwan20/shayanrizwan20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in coding
+- 🌱 I’m currently working as a Web frontend developer
+- 📫 How to reach me : shayanrizwan35@gmail.com
+- ⚡ Fun fact: I am only 14 years old
