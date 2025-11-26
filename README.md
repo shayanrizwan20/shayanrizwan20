@@ -16,7 +16,7 @@
    <a href="https://www.instagram.com/xhayanrizwan">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://fb.com/Shayan%20Rizwan">
+   <a href="https://m.facebook.com/profile.php?id=61569947260694&name=xhp_nt__fb__action__open_user">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://twitter.com/xhayan_rizwan">
